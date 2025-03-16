@@ -24,7 +24,7 @@ const Banner = () => {
               Solve problem with an <br /> integrated Autocad agency.
             </h1>
             <p className="mt-6 text-lg leading-8 text-bluegray">
-              Kashi Patient design is the leading platform in Autocad design and
+              Kashi Patent drawings is the leading platform in Autocad design and
               services. Our expert patent illustration team is here to <br />
               provide you with the highest quality illustrations to support your
               patent application.

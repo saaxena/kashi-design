@@ -12,25 +12,25 @@ const Aboutdata: datatype[] = [
     {
         imgSrc: "/assets/provide/heaking.svg",
         country: "Utility Drawing",
-        paragraph: 'We specialize in high-quality Utility Patent Drawings that comply with USPTO guidelines. My drawings accurately illustrate inventions with proper perspectives, reference numbers, and technical precision for smooth patent approval.',
+        paragraph: 'We specialize in high-quality Utility Patent Drawings that comply with all International guidelines. Our drawings accurately illustrate inventions with proper perspectives, reference numbers, and technical precision for smooth patent approval.',
         buttonText: "20$ / figure"
     },
     {
         imgSrc: "/assets/provide/uidesign.svg",
         country: "Designs",
-        paragraph: 'We provide expert Design Patent Drawings with clear, high-contrast illustrations that highlight the ornamental features of a product. We work meets USPTO standards, ensuring a seamless patent application process.',
+        paragraph: 'We provide expert Design Patent Drawings with clear, high-contrast illustrations that highlight the ornamental features of a product. our work meets with all International standards, ensuring a seamless patent application process.',
         buttonText: "25$ / figure"
     },
     {
         imgSrc: "/assets/provide/marketing.svg",
         country: "Trademark Drawing",
-        paragraph: 'We specialize in professional Trademark Drawings that meet USPTO standards. With precise line work, accurate detailing, and compliance with legal requirements, I ensure your trademark is presented clearly and effectively for approval',
+        paragraph: 'We specialize in professional Trademark Drawings that meet all International standards. With precise line work, accurate detailing, and compliance with legal requirements, We ensure your trademark is presented clearly and effectively for approval',
         buttonText: "30$ / figure"
     },
     {
         imgSrc: "/assets/provide/graphic.svg",
         country: "Technical Drawing",
-        paragraph: 'We create professional Technical Drawings with precise detailing, ensuring clarity and accuracy for engineering, manufacturing, and patent applications. My work adheres to industry standards for seamless implementation.',
+        paragraph: 'We create professional Technical Drawings with precise detailing, ensuring clarity and accuracy for engineering, manufacturing, and patent applications. Our work adheres to industry standards for seamless implementation.',
         buttonText: "30$ / figure"
     },
 
@@ -42,7 +42,7 @@ const Provide = () => {
             <div className='mx-auto max-w-7xl px-4 my-10 sm:py-20 lg:px-8'>
                 {/* TOP SECTION */}
                 <div className='flex flex-col items-center text-center lg:text-left p-10'>
-                    <p className="text-4xl lg:text-6xl pt-4 font-semibold lh-81 mt-5">We provide that service.</p>
+                    <p className="text-4xl lg:text-6xl pt-4 font-semibold lh-81 mt-5">Services we provide.</p>
                     <h4 className="text-lg pt-4 font-normal lh-33 text-bluegray max-w-3xl">
                         <ul className="list-disc list-inside">
                             <li>Flat fee, regardless of complexity.</li>
