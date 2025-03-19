@@ -12,19 +12,19 @@ const Aboutdata: datatype[] = [
     {
         imgSrc: "/assets/provide/heaking.svg",
         country: "Utility Drawing",
-        paragraph: 'We specialize in high-quality Utility Patent Drawings that comply with all International guidelines. Our drawings accurately illustrate inventions with proper perspectives, reference numbers, and technical precision for smooth patent approval.',
+        paragraph: 'We specialize in high-quality Utility Patent Drawings that meets all Jurisdiction Standards like USPTO, EPO, WIPO, JPO, CNIPA, IPO etc. Our drawings accurately illustrate inventions with proper perspectives, reference numbers, and technical precision for smooth patent approval.',
         buttonText: "20$ / figure"
     },
     {
         imgSrc: "/assets/provide/uidesign.svg",
         country: "Designs",
-        paragraph: 'We provide expert Design Patent Drawings with clear, high-contrast illustrations that highlight the ornamental features of a product. our work meets with all International standards, ensuring a seamless patent application process.',
+        paragraph: 'We provide expert Design Patent Drawings with clear, high-contrast illustrations that highlight the ornamental features of a product. our work meets all Jurisdiction Standards like USPTO, EPO, WIPO, JPO, CNIPA, IPO etc, ensuring a seamless patent application process.',
         buttonText: "25$ / figure"
     },
     {
         imgSrc: "/assets/provide/marketing.svg",
         country: "Trademark Drawing",
-        paragraph: 'We specialize in professional Trademark Drawings that meet all International standards. With precise line work, accurate detailing, and compliance with legal requirements, We ensure your trademark is presented clearly and effectively for approval',
+        paragraph: 'We specialize in professional Trademark Drawings that meets all Jurisdiction Standards like USPTO, EPO, WIPO, JPO, CNIPA, IPO etc. With precise line work, accurate detailing, and compliance with legal requirements, We ensure your trademark is presented clearly and effectively for approval',
         buttonText: "30$ / figure"
     },
     {
